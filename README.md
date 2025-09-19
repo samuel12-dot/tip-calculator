@@ -1,8 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Tip Calculator (Extended)
+
+**Year:** 2025  
+**Category:** React/Next.js  
+**Type:** Events & Arithmetic  
+
+![Tip Calculator Example](./tip_calculator.png)
+
+
+## Description
+Split bill among people, choose preset or custom tip percentages, and calculate per-person tip and total.
+
+## Full Description
+The **Tip Calculator (Extended)** is a practical tool that helps users quickly and accurately split bills. It allows for **preset or custom tip percentages**, making it flexible for different scenarios. With a clean and responsive design, users can input the bill amount, number of people, and tip preference to instantly see per-person totals.
+
+- **Live Demo:** [Tip Calculator (Extended)](https://tip-calculator-beige-one.vercel.app/)  
+- **Repository:** [GitHub Repo](https://github.com/samuel12-dot/tip-calculator.git)
+
+---
+
+## Overview
+An intuitive bill-splitting application designed to simplify group dining experiences. The app ensures fair calculations by dividing tips and totals evenly, while also supporting custom inputs for flexibility.
+
+### Features
+- Split bills between multiple people with ease  
+- Choose from preset or enter custom tip percentages  
+- Instant calculation of per-person tip and total  
+
+---
 
 ## Getting Started
 
-First, run the development server:
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+### Development Server
+Run the following command to start the dev server:
 
 ```bash
 npm run dev
@@ -12,25 +43,3 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
