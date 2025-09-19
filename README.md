@@ -4,7 +4,7 @@
 **Category:** React/Next.js  
 **Type:** Events & Arithmetic  
 
-![Tip Calculator Example](./tip_calculator.png)
+![Tip Calculator Example](/public/tip_calculator.png)
 
 
 ## Description
